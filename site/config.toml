@@ -9,7 +9,7 @@ theme = "hugo-strata-theme"
   name = "Fenja Hildebrandt"
   description = "Mein Blog über Bücher und was ich sonst noch so liebe"
 
-  date_format = "2016-12-17T15:04:10.000Z"
+  date_format = "2018-01-01"
 
   [params.contact]
   hide = true
@@ -30,3 +30,13 @@ theme = "hugo-strata-theme"
 
   [params.portfolio]
     hide = true
+
+[[menu.main]]
+	name = "Home"
+	url  = "/"
+	weight = 10
+
+[[menu.main]]
+	name = "Blog"
+	url  = "post/"
+	weight = 0

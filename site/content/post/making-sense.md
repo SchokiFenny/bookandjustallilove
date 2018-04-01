@@ -1,6 +1,6 @@
 ---
 title: 'Leo Tolstoi: Auferstehung'
-date: 2016-12-17T15:04:10.000Z
+date: 2016-12-17
 description: ' '
 image: /img/hp2_awesome_pic.jpg
 ---
