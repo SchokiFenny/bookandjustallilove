@@ -15,3 +15,14 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Kurzbeschreibung", name: "description", widget: "text"}
       - {label: "Thumbnail", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "pages"
+    label: "Seiten"
+    files:
+      - file: "site/content/_index.md"
+        label: "Startseite"
+        name: "home"
+        fields:
+          - {label: Titel, name: title, widget: string}
+          - {label: Untertitel, name: subtitle, widget: string}
+          - {label: Beschreibungsüberschrift, name: descriptionHeader, widget: string}
+          - {label: Beschreibung, name: description, widget: markdown}
