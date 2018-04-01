@@ -1,3 +1,9 @@
 baseurl = "/"
 languageCode = "de-de"
 title = "Books and Just All I Love"
+
+theme = "hyde"
+
+[params]
+  themeColor = "theme-base-0b"
+  description = "Mein Blog über Bücher und was ich sonst noch so liebe"
