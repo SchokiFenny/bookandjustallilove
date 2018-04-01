@@ -6,7 +6,7 @@ description: >-
   Geschichte von Ungerechtigkeit und Reue, von Liebe und Menschenliebe, zeichnet
   unzählige gestochenschafre Porträts der Gesellschaft der 1880er und ist dabei
   noch sozialkritisch und staatsphilosophisch in einem.
-image: ''
+image: /img/hp2_awesome_pic.jpg
 ---
 Was bei anderen Autoren lang und langweilig, schulmeisterhaft und zusammenhangslos erscheinen würde, verknüpft Tolstoi, als einer der bedeutendsten Autoren des russischen Realismus, geschickt zu einer der bewegendsten Geschichten der Weltliteratur. Dieser Roman steht vollkommen zu Unrecht im Schatten von Krieg und Frieden und Anna Karenina. 
 
