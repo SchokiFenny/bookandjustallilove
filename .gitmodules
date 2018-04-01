@@ -1,3 +1,9 @@
 [submodule "site/themes/hyde"]
 	path = site/themes/hyde
 	url = https://github.com/spf13/hyde
+[submodule "site/site/themes/hugo-strata-theme"]
+	path = site/site/themes/hugo-strata-theme
+	url = https://github.com/SchokiFenny/hugo-strata-theme.git
+[submodule "site/themes/hugo-strata-theme"]
+	path = site/themes/hugo-strata-theme
+	url = https://github.com/SchokiFenny/hugo-strata-theme.git

@@ -1,9 +1,32 @@
 baseurl = "/"
 languageCode = "de-de"
 title = "Books and Just All I Love"
+paginate = 10
 
-theme = "hyde"
+theme = "hugo-strata-theme"
 
 [params]
-  themeColor = "theme-base-0b"
+  name = "Fenja Hildebrandt"
   description = "Mein Blog über Bücher und was ich sonst noch so liebe"
+
+  date_format = "2016-12-17T15:04:10.000Z"
+
+  [params.contact]
+  hide = true
+
+  [params.sidebar]
+    bio = "Mein Blog über Bücher und was ich sonst noch so liebe"
+
+    twitter = "loesidoesi"
+
+  [params.about]
+    hide = false
+    title = "Books and all I love"
+    content = "Edison bulb palo santo godard disrupt fanny pack cloud bread lumbersexual distillery cred semiotics flannel. Polaroid microdosing dreamcatcher kitsch. Fashion axe microdosing wolf occupy, XOXO brooklyn chicharrones narwhal pickled squid. Polaroid hell of leggings salvia franzen actually shaman."
+
+  [params.recentposts]
+    hide = false
+    title = "Die letzten Blogeinträge"
+
+  [params.portfolio]
+    hide = true
