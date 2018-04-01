@@ -24,7 +24,7 @@ theme = "hugo-strata-theme"
     title = "Books and all I love"
     content = "Edison bulb palo santo godard disrupt fanny pack cloud bread lumbersexual distillery cred semiotics flannel. Polaroid microdosing dreamcatcher kitsch. Fashion axe microdosing wolf occupy, XOXO brooklyn chicharrones narwhal pickled squid. Polaroid hell of leggings salvia franzen actually shaman."
 
-  [params.recentposts]
+  [params.allposts]
     hide = false
     title = "Alle Blogeinträge"
 
