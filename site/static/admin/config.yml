@@ -30,4 +30,5 @@ collections: # A list of collections the CMS should be able to edit
         label: "Impressum"
         name: "imprint"
         fields:
+          - {label: Datum, name: date, widget: date}
           - {label: Text, name: body, widget: markdown}
