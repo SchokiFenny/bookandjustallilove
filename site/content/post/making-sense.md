@@ -1,27 +1,65 @@
 ---
-title: "Making sense of the SCAA’s new Flavor Wheel"
+title: 'Leo Tolstoi: Auferstehung'
 date: 2016-12-17T15:04:10.000Z
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
-image: /img/blog-flavor_wheel.jpg
+description: >-
+  Auferstehung ist der letzte der drei Romane Tolstois. Er erzählt eine
+  Geschichte von Ungerechtigkeit und Reue, von Liebe und Menschenliebe, zeichnet
+  unzählige gestochenschafre Porträts der Gesellschaft der 1880er und ist dabei
+  noch sozialkritisch und staatsphilosophisch in einem.
+image: ''
 ---
+Was bei anderen Autoren lang und langweilig, schulmeisterhaft und zusammenhangslos erscheinen würde, verknüpft Tolstoi, als einer der bedeutendsten Autoren des russischen Realismus, geschickt zu einer der bewegendsten Geschichten der Weltliteratur. Dieser Roman steht vollkommen zu Unrecht im Schatten von Krieg und Frieden und Anna Karenina. 
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
 
-## What the updates mean to you
+Leo Nikolajewitsch Graf Tolstoi arbeitete an Воскресение (Woskressenije, dt. Auferstehung) von 1889 bis 1899. 1899 wurde der Roman auch veröffentlicht, als Fortsetzungsgeschichte gleichzeitig in einer russischen und einer englischen Zeitschrift. Diese Rezension basiert auf der Übersetzung von Ilse Frapan aus dem Jahr 1900 in der 6. Auflage erschienen im Fischer Klassik Verlag, Frankfurt am Main. 
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
 
-- producers
-- roasters
-- importers/exporters
-- retailers
-- manufacturers
-- baristas
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+Den Erlös des Romans (ca. 1000 Rubel pro 16 Seiten) spendete Tolstoi einer russischen Glaubensgemeinschaft, die von den orthodoxen Dogmen abwich und deswegen nach Kanada fliehen musste. Die russisch-orthodoxe Kirche wird im Roman immer wieder kritisiert und von einigen Figuren als Mittel zur Gefügigmachung des Volkes bezeichnet. 
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+
+Der Roman findet im Russland der 1880er Jahre statt und spielt zwischen dem 28. April und dem September eines Jahres, beinhaltet aber zahlreiche Erzählungen aus der Vergangenheit der Figuren. 
+
+
+
+Am 28. April ist Dimitri Iwanowitsch Fürst Nechliudow als Geschworener bestellt. Er sitzt zu Gericht über die Prostituierte Katarina Michailowa Maslowa, die beschuldigt wird einen Freier vergiftet zu haben. Durch ein Missverständnis bei der Belehrung der Geschworenen wird die unschuldige Maslowa schuldig gesprochen und zu vier Jahren Zwangsarbeit verurteilt. Während des Verfahrens erkennt Nechliudow in Maslowa seine Jugendliebe. Er hatte sie als Hausmädchen auf dem Hof von Verwandten kennengelernt, verführt und dann schwanger zurückgelassen. Er fühlt sich als Hauptverantwortlicher für das Schicksal der Maslowa, nicht nur durch das Urteil, sondern auch deswegen, weil er den verdorbenen Lebenswandel der Prostituierten auf sich zurückführt. 
+
+
+
+Er beschließt reumütig alles zu tun um Katjuscha, wie er die Maslowa nennt, zu retten. Dazu gibt er das dekadente Leben, das er sich als Mitglied der Oberschicht angewöhnt hat, auf. Während seiner Bemühungen um die Maslowa kommt er mit vielen anderen Gefangenen in Kontakt, erst im Gefängnis, dann auf dem Marsch nach Sibirien. Er erkennt die Ungerechtigkeit und Ungenauigkeit des Justizsystems und die Grausamkeit seiner Strafen. 
+
+
+
+Außerdem entschließt sich Nechliudow, durch Erbe zum Großgrundbesitzer geworden, große Teile seines Landes an die leidenden Bauern zu verschenken. Er erkennt die fundamentale Ungerechtigkeit des Feudalsystems und sieht den Boden als Allgemeingut. Trotzdem ist er weder Kommunist noch Sozialist. 
+
+
+
+Gestalterisch ist der Roman ein Meisterwerk. Er profiliert sich besonders durch seine gnadenlose Ehrlichkeit und die damit einhergehende gut verständlich, aber dennoch genaue Beschreibung von Menschen, Umgebung und Zusammenhängen, wie es für den Realismus charakteristisch ist. Ein Teil der Verständlichkeit ist sicher auch der guten Arbeit der Übersetzerin anzurechnen. 
+
+
+
+Ein allwissender Erzähler ermöglicht dem Leser in verschiedene Charaktere einzutauchen. Er begleitet meistens Nechliudow oder Maslowa, gibt aber auch kurze Einblicke in die Gedankengänge anderer Figuren. Solche weiteren Figuren gibt es viele, alle charakterisiert Tolstoi klar; kein Charakter erscheint zweidimensional. 
+
+
+
+Über Gespräche und Gedankengänge wird der Leser angeregt, sich mit den Kernthemen des Romans auseinander zu setzten. Die Figuren liefern Argumentationen. Die Nechliudows entsprechen in vielen Punkten den Kernthesen Tolstois, wobei deutlich wird, wie er sich diese im Verlauf des Romans nach und nach erarbeitet. So erkennt Nechliudow, dass kein Mensch einen anderen richten darf und am Ende des Romans sogar, dass die Gebote der Bergpredigt wörtlich zu nehmen sind und als buchstäbliche Gesetzte zur bestmöglichen Gesellschaft führen würden. Außerdem empfindet er immer wieder Ekel oder übt Kritik an der Oberschicht, ihrem dekadenten Leben, dem Feudalsystem und der russisch-orthodoxen Kirche und ihren Dogmen. All diese Überlegungen sind zentral für das Denken und Wirken Tolstois. 
+
+
+
+Außerdem muss angemerkt werden, dass Tolstoi als Graf und Großgrundbesitzer sich mit vielen der gleichen moralischen Fragen wie Nechliudow konfrontiert sieht. Trotzdem darf man nicht den Trugschluss zulassen der Roman sei autobiographisch oder Nechliudow als Tolstoi zu verstehen. 
+
+
+
+Neben Sozialkritik und Staatsphilosophie ist der Roman im Kern eine Geschichte von Reue. Im Verlauf der Geschichte ist immer wieder vom geistigen Ich, die Rede, das bei den dekadenten Reichen durch das fleischliche Ich verdrängt und unterdrückt wird. Der Roman ist die Geschichte davon, wie zwei Menschen, Nechliudow und Maslowa, beide auf ihre Weise ihr geistiges Ich wieder erwecken. In diesem Sinne ist auch der Titel zu verstehen. 
+
+
+
+Maslowa vollführt diese Wandlung, indem sie ihr lasterhaftes Leben als Prostituierte, dass sie genossen hat, hinter sich lässt und sich zum Dienst an der Menschheit verpflichtet. Sie lehnt Nechliudows Heiratsantrag ab, um ihm nicht zu schaden; sie stellt seine Interessen vor die ihrigen, so wie er die ihrigen vor seine stellt. 
+
+
+
+Es sollte ersichtlich sein, dass ich diesen Roman großartig finde. Er kombiniert geschickt Unterhaltung und Erkenntnis, er schafft, dass es dem Leser eine große Freude bereitet nachzudenken und hält ihm einen Spiegel vor. 
+
+Die einzige Kritik, die man an diesem Buch ernsthaft äußern könnte ist, dass es mit knapp 600 Seiten ein wenig kurz ist, man wünscht sich, nie aus der Erzählwelt Tolstois — mit all ihrer Genialität — aufzuwachen.
