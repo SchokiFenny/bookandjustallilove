@@ -1,7 +1,7 @@
 ---
 title: 'Leo Tolstoi: Auferstehung'
 date: 2016-12-17
-description: ' '
+description: '123 Test'
 image: /img/hp2_awesome_pic.jpg
 ---
 Auferstehung ist der letzte der drei Romane Tolstois. Er erzählt eine Geschichte von Ungerechtigkeit und Reue, von Liebe und Menschenliebe, zeichnet unzählige gestochenschafre Porträts der Gesellschaft der 1880er und ist dabei noch sozialkritisch und staatsphilosophisch in einem.
