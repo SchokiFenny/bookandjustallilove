@@ -26,7 +26,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Untertitel, name: subtitle, widget: string}
           - {label: Beschreibungsüberschrift, name: descriptionHeader, widget: string}
           - {label: Beschreibung, name: description, widget: markdown}
-      - file: "site/content/impressum"
+      - file: "site/content/impressum.md"
         label: "Impressum"
         name: "imprint"
         fields:
