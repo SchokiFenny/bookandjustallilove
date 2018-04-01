@@ -1,6 +1,6 @@
 ---
 title: Die Ravenboys Tetralogie
-date: 2018-04-01T16:42:53.672Z
+date: 2018-03-26T18:42:53+02:00
 description: >-
   Eine spannende Fantasyreihe von Maggie Stiefvater. Klingt gut? Erfahrt in
   meiner Rezension, ob es das auch ist.
