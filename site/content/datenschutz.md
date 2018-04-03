@@ -1,5 +1,6 @@
 ---
 title: Datenschutz
+date: 2018-04-03
 ---
 <div id="datenschutz">
 
