@@ -32,3 +32,9 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: Datum, name: date, widget: date}
           - {label: Text, name: body, widget: markdown}
+      - file: "site/content/ueber-mich.md"
+        label: "Über mich"
+        name: "about me"
+        fields:
+          - {label: Aktualisierungsdatum, name: date, widget: date}
+          - {label: Body, name: body, widget: markdown}
